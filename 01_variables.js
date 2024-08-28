@@ -1,10 +1,9 @@
-// ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ Variable in javaScript ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
+// ************************ Variable in javaScript ************************ 
 // In JavaScript, variables are used to store data values that can be referenced and manipulated throughout the code. Variables can be declared using three keywords: var, let, and const. Each of these has different behaviors regarding scope, hoisting, and mutability.
 
 
 
-
-// ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ What is the diffrent between var, let and const ? ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐ 
+// ************************ Diffrent between var, let and const ************************ 
 // Scope: var is function or globally scoped, let and const are block scoped.
 // Re-declaration: var can be re-declared, let and const cannot be re-declared.
 // Initialization: var and let can be declared without initialization, const must be initialized.
